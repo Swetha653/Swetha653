@@ -1,4 +1,4 @@
-- :wave: Hi, I’m krish
+- :wave: Hi, I’m Swetha
 - :eyes: I’m interested in coding/programming and gaming
 - :seedling: I’m currently learning Front-end Development
 - :sparkles: Fav OS is Linux
